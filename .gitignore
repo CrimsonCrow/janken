@@ -1,0 +1,4 @@
+build/
+.cache/
+res/
+**.sh
